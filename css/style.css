@@ -1,0 +1,77 @@
+body {
+	background: peachpuff;
+    
+}
+
+#header {
+            height: 80px;
+            width: 100%;
+            overflow: auto;
+            background: pink;
+            text-align:;left;
+            color: darkorange;
+            font-family:"Comic Sans MS", cursive, sans-serif"
+           
+ }
+
+#online {
+	        height: 50px;
+            width: 100%;
+            overflow: auto;
+            background: pink;
+            text-align:left;
+            color: darkorange;
+            font-family:"Comic Sans MS", cursive, sans-serif"
+}
+
+#order {
+	height:80px;
+	width: 100%;
+	overflow: auto;
+	background: pink;
+	text-align: center;
+	color:darkorange;
+    font-family:"Comic Sans MS", cursive, sans-serif"
+}
+
+#nav {
+	 height: 50px;
+     width: 100%;
+     overflow: auto;
+     background: pink;
+     text-align:center;
+     color: darkorange;
+     text-decoration:bold;
+}
+#time {
+	height:200px;
+	width:25%;
+	margin: 45px;
+	float: left;
+	color: darkorange;
+}
+
+#food {
+	height:200px;
+	width:26%;
+	margin: 45px;
+	float:right;
+	color: darkorange;
+}
+
+
+#resturant {
+	text-align: left;
+	color:darkorange;
+    Text-align:center
+}
+
+#reason {
+	text-align: left;
+	color: darkorange  ;
+    
+}
+
+
+
+
